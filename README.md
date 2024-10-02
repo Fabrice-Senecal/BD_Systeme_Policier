@@ -1,5 +1,5 @@
 # BD_Systeme_Policier
-Simulation d'une base de donnée SQL d'un Système policier
+Simulation d'une base de données SQL d'un Système policier
 
 # Projet SQL : Base de données de surveillance policière
 
